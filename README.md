@@ -1,3 +1,7 @@
+A React app where you visually create a burger with ingredients then add to a database
+
+Uses React, Firebase , Babel and Axios
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
